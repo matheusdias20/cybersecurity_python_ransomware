@@ -31,9 +31,11 @@ Objetivo é implementar um Ransomware para criptografar e descriptografar arquiv
 ### Detalhamento:
 
 Terminal - Criptografando o arquivo:
+
 ![image](./img/encrypter.png)
 
-Terminal - Descriptografando o arquivo
+Terminal - Descriptografando o arquivo:
+
 ![image](./img/decrypter.png)
 
 
